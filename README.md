@@ -21,8 +21,6 @@ I'll update my coursework here. (DATA C8 - Fall 2025)
 
 ## HWs
 
-### HW 01
+### Homework 5: Chance, Empirical Probability Distribution
 
-### HW 02
-
-### HW 03
+### Homework 9: Linear Regression
