@@ -17,6 +17,8 @@ I'll update my coursework here. (DATA C8 - Fall 2025)
 
 ### Lab 03
 
+### Lab 09: Regression
+
 ---
 
 ## HWs
