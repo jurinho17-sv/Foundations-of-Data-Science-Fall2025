@@ -11,12 +11,6 @@ I'll update my coursework here. (DATA C8 - Fall 2025)
 
 ## Labs
 
-### Lab 01
-
-### Lab 02
-
-### Lab 03
-
 ### Lab 09: Regression
 
 ---
@@ -26,3 +20,11 @@ I'll update my coursework here. (DATA C8 - Fall 2025)
 ### Homework 5: Chance, Empirical Probability Distribution
 
 ### Homework 9: Linear Regression
+
+### Homework 10: Regression Inference
+
+---
+
+## Study Demo
+
+### Implementing Classifiers (kNN Algorithm)
