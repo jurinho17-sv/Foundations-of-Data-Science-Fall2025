@@ -7,6 +7,8 @@ I'll update my coursework here. (DATA C8 - Fall 2025)
 
 ### Project 1: World Population and Poverty
 
+### Project 3: Movie Classification (k-NN Implementation)
+
 ---
 
 ## Labs
