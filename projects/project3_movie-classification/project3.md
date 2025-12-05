@@ -1,4 +1,4 @@
-# **Project 3's Learning Summary**
+# **Project 3: Movie Classification**
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## **Data Preprocessing & Exploration (Part 1)**
 
-### What You Learned:
+### What I Learned:
 
 #### Word Stemming:
 - Reduce words to base form (managing → manag)
@@ -53,7 +53,7 @@
 5. Classification complete!
 ```
 
-### Functions You Implemented:
+### Functions Implemented:
 
 #### 1. `distance_two_features()`
 ```python
@@ -148,7 +148,7 @@ proportion_correct = np.count_nonzero(test_guesses == actual) / total
 
 ---
 
-## **Feature Selection Strategy (Part 4)**
+## **Feature Selection (Part 4)**
 
 ### Constraints:
 - **Only 5 features** allowed
@@ -243,7 +243,7 @@ test_my_features.row(0)   # Test movie (CORRECT)
 
 ---
 
-## **12. Workflow**
+## **Workflow**
 
 ### Complete Process:
 
@@ -267,9 +267,7 @@ test_my_features.row(0)   # Test movie (CORRECT)
 
 ---
 
-## **Surprising Discoveries**
-
-### Key Findings:
+## Key Findings:
 1. **5 features > 10 features**: Quality matters more than quantity
 2. **Horror films hard to classify**: Feature selection limitations
 3. **Interactive plot usefulness**: Helpful for feature selection
